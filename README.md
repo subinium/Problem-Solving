@@ -1,9 +1,14 @@
 ## Problem Solving
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=subinium)](https://solved.ac/subinium)
-[![LeetCode user subinium](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsubinium&logo=leetcode&logoColor=yellow)](https://leetcode.com/subinium/)
 
 연구하기 싫을 때, 가볍게 한 문제씩 풀어서 저장하는 레포입니다.
+
+## Leetcode
+
+[![LeetCode user subinium](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsubinium&logo=leetcode&logoColor=yellow)](https://leetcode.com/subinium/)
+
+![](https://leetcode.com/static/images/badges/dcc-2022-3.png)
 
 ## 현재 진행 상황
 
