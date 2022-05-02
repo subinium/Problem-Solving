@@ -7,5 +7,4 @@ class Solution:
                     if stk: stk.pop()
                 else: stk.append(c)
             return stk
-        print(new_string(s), new_string(t))
         return new_string(s)==new_string(t)
